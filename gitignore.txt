@@ -1,0 +1,16 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar pasta de dependências do Composer
+/vendor/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários do sistema
+*.tmp
+*.temp
+
+# Ignorar arquivos do sistema operacional (Windows/macOS)
+.DS_Store
+Thumbs.db
