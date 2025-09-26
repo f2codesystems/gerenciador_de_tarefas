@@ -90,12 +90,12 @@ http://localhost/gerenciador_de_tarefas
 
 🔗 Repositório
 
-📌 GitHub: f2codesystems/gerenciador_de_tarefas
+📌 GitHub: https://github.com/f2codesystems/gerenciador_de_tarefas
 
 👨‍💻 Autor
 
 Felipe Costa Correa
-💼 LinkedIn: Felipe Correa
+💼 LinkedIn: Felipe Correa - https://www.linkedin.com/in/felipecostacorrea/
 
 📜 Licença
 
